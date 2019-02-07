@@ -1,5 +1,5 @@
 public class Hello {
-    public static void main() {
+    public static void main(int[] args) {
 
     }
 }
